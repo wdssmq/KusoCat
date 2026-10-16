@@ -1,0 +1,7 @@
+id: ad
+title: 广告
+items:
+  app: # 表示将在 id 为 app 的分类下显示
+    text: 广告说明
+    href: \#text
+    img: img/ad.jpg

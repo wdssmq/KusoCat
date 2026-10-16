@@ -1,0 +1,24 @@
+id: nav
+title: 导航
+items:
+  - text: 导航栏目
+    href: \#text
+  - text: 导航栏目
+    href: \#text
+  - text: 导航栏目
+    href: \#text
+  - text: 导航栏目
+    href: \#text
+  - text: 导航栏目
+    href: \#text
+  - text: 导航栏目
+    href: \#text
+  - text: 导航栏目
+    href: \#text
+sides:
+  - text: 侧边导航
+    href: \#text
+  - text: 侧边导航
+    href: \#text
+  - text: 侧边导航
+    href: \#text

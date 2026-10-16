@@ -1,0 +1,6 @@
+.DS_Store
+.history
+*.local
+dist
+dist-ssr
+node_modules

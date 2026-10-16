@@ -1,0 +1,10 @@
+id: music
+title: 同人音乐/翻唱 & 宅舞 & 音乐游戏 & 音乐下载
+icon: fa-video-camera
+color: yellow
+items:
+  - text: 东方同人录
+    href: http://www.tongrenlu.info/
+  - text: 萌否电台
+    href: http://moe.fm/
+    tag: 荐

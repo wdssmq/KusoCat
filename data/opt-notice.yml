@@ -1,0 +1,6 @@
+id: notice
+title: 公告
+items:
+  - html: 这里是网站公告，这里是网站公告 「<a href="\#aaa" target="_blank" >链接示意</a>」
+    html2: 这里是网站公告；
+  - html: 这里是网站公告，这里是网站公告 「<a href="\#aaa" target="_blank" >链接示意</a>」

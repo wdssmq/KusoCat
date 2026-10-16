@@ -1,0 +1,12 @@
+id: footer
+title: 页脚
+desc: 欢迎访问本站
+items:
+  - text: Hellokitty
+    href: index.html
+  - text: 关于本站
+    href: index.html
+  - text: 广告合作
+    href: index.html
+  - text: 申请收录
+    href: index.html

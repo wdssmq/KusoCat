@@ -1,0 +1,17 @@
+id: app
+title: 这里是APP栏目图标图标
+icon: fa-mobile
+color: red
+items:
+  - text: 哔哩哔哩
+    href: https://www.coolapk.com/apk/tv.danmaku.bili
+    logo: img/app/bilibili.webp
+  - text: 演示演示
+    href: \#eeee
+    logo: img/app/demo.png
+  - text: 演示演示
+    href: \#eeee
+    logo: img/app/demo.png
+  - text: 演示演示
+    href: \#eeee
+    logo: img/app/demo.png
